@@ -4,5 +4,4 @@
 - Thus, loading the data from MYSQL, Excel files and transforming them using Power Query and further creating measured, calculated columns, to generate various visualization, making use of bar graphs, ribbon chart, donut charts, line charts, bookmarks, toggle, this project gave a complete overview and experience of data analysis and creating visualization using Power BI.
 
 - Live Dashboard Link:
-  [https://app.powerbi.com/view?r=eyJrIjoiNDg4ZDU1NzgtZGE0YS00YjUwLTk3ZDUtMjM5ZWU5NzNiMzRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](url)
-
+  [https://app.powerbi.com/view?r=eyJrIjoiNDg4ZDU1NzgtZGE0YS00YjUwLTk3ZDUtMjM5ZWU5NzNiMzRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]()
