@@ -25,18 +25,19 @@
 9. ALL, ALLEXCEPT, Filter functions
 10. Using divide function to prevent zero division errors
 11. Data modeling
-12. Using Bookmarks to switch between two visuals
-13. Page navigation with buttons
-14. Dynamic titles based on the applied filters
-15. Using KPI indicators
-16. Creating Tool tips
-17. Adding dynamic slicers
-18. Conditional formatting the values in visuals using icons or background color
-19. PowerBi services
-20. Publishing reports to PowerBi services
-21. Setting up personal gateway to set up the auto refresh of data
-22. PowerBi App creation
-23. Collaboration, workspace, access permissions in PowerBi services
+12. Data Visualization - charts, graphs
+13. Using Bookmarks to switch between two visuals
+14. Page navigation with buttons
+15. Dynamic titles based on the applied filters
+16. Using KPI indicators
+17. Creating Tool tips
+18. Adding dynamic slicers
+19. Conditional formatting the values in visuals using icons or background color
+20. PowerBi services
+21. Publishing reports to PowerBi services
+22. Setting up personal gateway to set up the auto refresh of data
+23. PowerBi App creation
+24. Collaboration, workspace, access permissions in PowerBi services
 
 Domains Explored:
 - Finance 
