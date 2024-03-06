@@ -39,7 +39,7 @@
 23. PowerBi App creation
 24. Collaboration, workspace, access permissions in PowerBi services
 
-Domains Explored:
+### Domains Explored:
 - Finance 
 - Sales
 - Marketing
